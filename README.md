@@ -47,7 +47,7 @@ Zależności:
 
 ### Backend
 1. Sklonuj repozytorium:
-   git clone https://github.com/username/speech-recognition-emotions.git
+   git clone https://github.com/agnieszkabies/speech-recognition-emotions.git
    cd speech-recognition-emotions/backend
 
 2. Utwórz środowisko wirtualne i zainstaluj zależności:
