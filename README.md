@@ -78,7 +78,7 @@ Zależności:
     Pobiera nagrania audio od użytkownika.
     Wyświetla wyniki analizy emocji.
 
-2. Backend (Node.js):
+2. Backend (Flask):
     Obsługuje żądania HTTP.
     Przesyła dane do serwera Pythona.
 3. Serwer Python:
